@@ -1,0 +1,23 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <img src="{{ '/assets/images/FMJRLogo.webp' | relative_url }}" alt="Florida Movers & Junk Removal" class="footer-logo" />
+      <p class="footer-tagline">{{ site.tagline }}</p>
+    </div>
+
+    <div class="footer-links">
+      <a href="#services">Services</a>
+      <a href="#gallery">Gallery</a>
+      <a href="#reviews">Reviews</a>
+      <a href="#contact">Contact</a>
+    </div>
+
+    <div class="footer-contact">
+      <p>{{ site.hours }}</p>
+      <a href="{{ site.phone_link }}" class="footer-phone">{{ site.phone }}</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>&copy; {{ "now" | date: "%Y" }} Florida Movers &amp; Junk Removal. All rights reserved.</p>
+  </div>
+</footer>
