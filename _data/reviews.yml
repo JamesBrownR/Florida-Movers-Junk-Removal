@@ -1,0 +1,28 @@
+# Florida Movers & Junk Removal - Customer Reviews
+# To add a new review, paste a new block below following this format.
+# Jekyll will automatically pick it up on the next build -- no code changes needed.
+
+- name: Maria G.
+  stars: 5
+  date: "June 2025"
+  text: "These guys showed up on time and moved everything in half the time I expected. Super careful with my furniture and zero damage. Will use again."
+
+- name: DeShawn R.
+  stars: 5
+  date: "May 2025"
+  text: "Called them at 9pm for same-day junk removal. They came the next morning and cleared out my whole garage in under two hours. Pricing was fair and the crew was great."
+
+- name: Sandra P.
+  stars: 5
+  date: "April 2025"
+  text: "Helped us move from Fort Lauderdale to Orlando. Professional, fast, and careful. They wrapped everything properly and nothing broke. Highly recommend."
+
+- name: James T.
+  stars: 5
+  date: "March 2025"
+  text: "Used them for a commercial office clear-out. They got it done over a weekend so we were ready to go Monday morning. Straight shooters, no surprise fees."
+
+- name: Lena M.
+  stars: 4
+  date: "February 2025"
+  text: "Good experience overall. The team was friendly and worked hard. They hauled away a couch, a broken treadmill, and a ton of boxes. Would use again."
